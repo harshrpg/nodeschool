@@ -1,0 +1,6 @@
+H
+E
+L
+L
+O
+"C:\\Learn_and_Dev\\Node School\\learn you node\\input.txt"
